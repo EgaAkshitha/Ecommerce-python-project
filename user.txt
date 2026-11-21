@@ -1,0 +1,3 @@
+101,Akshitha,akshitha@123,admin
+102,Akshu,akshu@1234,user
+103,akshithachinni,Akshitha@098,user
